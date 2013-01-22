@@ -1,5 +1,5 @@
 module Gmaps4rails
-  require 'rails'
+  # require 'rails'
   require 'gmaps4rails/base'
   
   class Engine < Rails::Engine
